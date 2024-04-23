@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "role": "Frontend Web Developer - Intern",
+    "organisation": "YeasiTech",
+    "startDate": "Feb to",
+    "endDate": "May, 2024",
+    "location": "Kolkata, India",
+    "experiences": ["Worked on Web Development", "Helped to create Web pages"],
+    "imageSrc": "company/YeasiTech.png"
+  }
+]
